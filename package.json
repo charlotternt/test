@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "composer": "^4.1.0",
+    "maildev": "^2.0.5",
+    "mailjet": "^0.0.1"
+  }
+}

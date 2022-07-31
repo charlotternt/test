@@ -1,0 +1,37 @@
+.navbar{
+    border-bottom: #bd9857 solid 10px;
+}
+
+h2{
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.form{
+    width: 350px;
+    height: 60px;
+    margin-bottom: 5px;
+}
+
+.form-control{
+    margin-top: 20px;
+    color: white;
+    background-color: #00385b;
+    
+}
+
+#input_name::placeholder, #input_firstname::placeholder, #input_mail::placeholder, #input_phone::placeholder{
+    color: white;
+    
+}
+
+
+.btn {
+    margin-top: 20px;
+    background-color: #bd9857 ;
+    color: white;
+}
+
+footer{
+    border-top: #bd9857 solid 10px;
+}
